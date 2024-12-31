@@ -1,4 +1,5 @@
 [
+  /*------------------------------------------------------------ Game - 1 --------------------------------------------------------*/
   {
     "title": "2244 King",
     "description": "2244 King is a strategic puzzle game set on a 5x8 grid (40 tiles). Players merge numbered tiles following a power-of-2 principle (e.g., 256, 512, 1024, 2048, 4096, etc.), aiming to reach infinity by merging a total of 817 tiles. Starting with a minimum tile value of 2 and a maximum of 873bz, players must plan and think quickly to advance. The ultimate goal is to reach infinity, using power-ups and climbing the global and local leaderboards. ",
@@ -17,7 +18,7 @@
     "gameLink": "https://play.google.com/store/apps/details?id=com.two.two.four.eight.match.numbers.games",
     "embedLink": "pJPaoFAEJaY",
     "features": [
-      "> Controls: First combine tiles with the same value, then follow the power-of-2 principle for strategic gameplay.*> Hammer: Removes unwanted tiles from the grid except the biggest one. *> Swap: Allows players to swap any two tiles for better positioning.*> Mega Merge: Merges all tiles of the same value in a single move, enhancing efficiency except single tile.*> Creative Mode: Design custom levels to match your desired rewards and challenges.*> Challenge Mode: Complete specific objectives, such as creating a particular tile within a set time, to earn higher rewards.*> Leaderboard: Compete globally and locally for a spot at the top of the leaderboard, with recognition in the Hall of Fame.*> Live Themes: Choose from 6 dynamic, live themes to enhance your gaming experience.*> Music Themes: Enjoy a selection of 6 music themes to complement the gameplay and immerse yourself in the game’s atmosphere."
+      "> Controls: First combine tiles with the same value, then follow the power-of-2 principle for strategic gameplay. *> Hammer: Removes unwanted tiles from the grid except the biggest one. *> Swap: Allows players to swap any two tiles for better positioning. *> Mega Merge: Merges all tiles of the same value in a single move, enhancing efficiency except single tile. *> Creative Mode: Design custom levels to match your desired rewards and challenges. *> Challenge Mode: Complete specific objectives, such as creating a particular tile within a set time, to earn higher rewards. *> Leaderboard: Compete globally and locally for a spot at the top of the leaderboard, with recognition in the Hall of Fame. *> Live Themes: Choose from 6 dynamic, live themes to enhance your gaming experience. *> Music Themes: Enjoy a selection of 6 music themes to complement the gameplay and immerse yourself in the game’s atmosphere."
     ],
     "responsibilities": [
       "> Create a comprehensive and detailed Game Design Document (GDD) that serves as the blueprint for the entire team.",
@@ -26,214 +27,388 @@
       "> Thoroughly Playtest the Game to Identify, Document, and Report Bugs, Glitches, or Gameplay Issues, Ensuring They Are Tracked and Resolved"
     ]
   },
+
+
+
+  /*------------------------------------------------------------ Game - 2 --------------------------------------------------------*/
+
   {
-    "title": "Levelarium",
-    "description": "Experience a captivating Android adventure crafted with Unity and C#. Engage in strategic gameplay, solve puzzles, and navigate dynamic combat scenarios. With stunning visuals and a compelling narrative, our game offers an immersive experience tailored for Android devices, all in a portrait-oriented format.",
+    "title": "Block Bust",
+    "description": "Block Bust is an innovative and captivating block puzzle game that combines strategic thinking with fun and visually appealing gameplay. Players must drag and drop blocks onto the grid to clear filled lines both horizontally and vertically. With a variety of modes, engaging perks, and a combo streak mechanic, the game offers endless entertainment and challenges for puzzle enthusiasts of all skill levels.",
     "screenshots": [
-      "packages/images/levelarium/lss1.png",
-      "packages/images/levelarium/lss2.png",
-      "packages/images/levelarium/lss3.png",
-      "packages/images/levelarium/lss4.png",
-      "packages/images/levelarium/lss5.png",
-      "packages/images/levelarium/lss6.png",
-      "packages/images/levelarium/lss7.png",
-      "packages/images/levelarium/lss8.png",
-      "packages/images/levelarium/lss9.png",
-      "packages/images/levelarium/lss10.png",
-      "packages/images/levelarium/lss11.png"
+      "packages/images/Games/Block Bust/SS1.png",
+      "packages/images/Games/Block Bust/SS2.png",
+      "packages/images/Games/Block Bust/SS3.png",
+      "packages/images/Games/Block Bust/SS4.png",
+      "packages/images/Games/Block Bust/SS5.png",
+      "packages/images/Games/Block Bust/SS6.png",
+      "packages/images/Games/Block Bust/SS7.png",
+      "packages/images/Games/Block Bust/SS8.png",
+      "packages/images/Games/Block Bust/SS9.png"
     ],
-    "gameLink": "https://faizalkhan99.itch.io/levelarium",
+    "gameLink": "https://play.google.com/store/apps/details?id=com.sg.free.merge.block.puzzle.game",
     "embedLink": "",
     "features": [
-      "features 1. feature 2. feature 3.'IN PROGRESS'"
+      "> Controls: Drag and drop blocks to clear lines horizontally and vertically",
+      "> Combo Streaks: Keep clearing lines consecutively to build combo streaks, increasing your score multiplier and earning higher coins",
+      "> Variety of Modes: Classic , Challenge , Timeless , Bomb & specially Adventure Mode",
+      "> Rotate Perk: Adjust block orientation for easier placement.",
+      "> Replace Perk: Swap out unwanted blocks for new ones.",
+      "> Rocket Perk: Clear a vertical and horizontal line at the placed location.",
+      "> Bomb Perk: Clear a 3x3 grid area to overcome challenging spots.",
+      "> Leaderboard: Compete globally and locally in each mode to secure your place at the top of the leaderboard.",
+      "> Block themes: Animals , Bakery , Fruits , Dice , Sea Animals"
     ],
     "responsibilities": [
-      "r1. r2. r3. r4"
+      "> Develop comprehensive Game Design Documents (GDD) that detail gameplay mechanics, level structures, and the overall game progression.",
+      "> Create diverse game modes, including Classic, Challenge, Timeless, Bomb, and Adventure modes.",
+      "> Design and implement power-ups like Rotate, Replace, Rocket, and Bomb to enhance gameplay variety.",
+      "> Work closely with developers, artists, and sound designers to bring the game vision to life.",
+      "> Implement a progression system with rewards to maintain player engagement and retention",
+      "> Design combo streak mechanics to reward players with score multipliers for consecutive line clears."
     ]
   },
+
+
+
+
+  /*------------------------------------------------------------ Game - 3 --------------------------------------------------------*/
+
   {
-    "title": "Trash Troopers",
-    "description": "A casual android game made while working in Insanity Crew. Players are supposed to catch the trash falling from the buildings and sort it on the basis of wet and dry trash. Responsible for ideation, design, and balancing throughout the development process.",
+    "title": "Makeover Surgeons",
+    "description": "Makeover Surgeons is a fun and interactive simulation game that lets players step into the role of a skilled surgeon and makeover artist. Players must perform life-saving surgeries followed by glamorous spa makeovers, transforming patients from their injured state into stunning bridal or groom-ready appearances. With engaging controls, captivating animations, and diverse challenges, this game offers a unique and immersive experience.",
     "screenshots": [
-      "packages/images/trashtroopers/ttss1.webp",
-      "packages/images/trashtroopers/ttss2.webp",
-      "packages/images/trashtroopers/ttss3.webp",
-      "packages/images/trashtroopers/ttss4.webp",
-      "packages/images/trashtroopers/ttss5.webp"
+      "packages/images/Games/MOS/SS1.png",
+      "packages/images/Games/MOS/SS2.png",
+      "packages/images/Games/MOS/SS3.png",
+      "packages/images/Games/MOS/SS4.png",
+      "packages/images/Games/MOS/SS5.png",
+      "packages/images/Games/MOS/SS6.png",
+      "packages/images/Games/MOS/SS7.png",
+      "packages/images/Games/MOS/SS8.png",
+      "packages/images/Games/MOS/SS9.png",
+      "packages/images/Games/MOS/SS10.png",
+      "packages/images/Games/MOS/SS11.png"
+
     ],
-    "gameLink": "https://play.google.com/store/apps/details?id=com.insanitycrewgames.trashtroopers&hl=en_US",
+    "gameLink": "https://play.google.com/store/apps/details?id=com.sg.doctor.surgeon.makeover.games",
     "embedLink": "",
     "features": [
-      "features 1. feature 2. feature 3.'IN PROGRESS'"
+      "> Drag & Drop: Place tools and items accurately.",
+      "> Drag and Hold: Perform precise surgical actions.",
+      "> Tap: Select tools or apply treatments.",
+      "> Drag & Swipe: Smoothly apply makeover treatments.",
+      "> Surgery Phase: Treat injuries and perform critical surgeries using various tools and techniques.",
+      "> SPA Makeover Phase: Transform patients from their dirty, injured state into stunning bridal or groom looks.",
+      "> Animations: Each level begins with an engaging animation showing how the patient got hurt, adding depth and personality to the gameplay."
     ],
     "responsibilities": [
-      "r1. r2. r3. r4"
+      "> Create detailed Game Design Document (GDD) outlining gameplay mechanics, level Design Document (LDD), and overall game flow.",
+      "> Work closely with developers, artists, and sound designers to bring the game vision to life.",
+      "> Create and refine levels that align with the game’s theme.",
+      "> Continuously monitor and adjust gameplay mechanics for fairness, fun, and challenge.",
+      "> Thoroughly Playtest the Game to Identify, Document, and Report Bugs, Glitches, or Gameplay Issues, Ensuring They Are Tracked and Resolved."
     ]
   },
+
+
+
+
+  /*------------------------------------------------------------ Game - 4 --------------------------------------------------------*/
+
   {
-    "title": "The Language of Love",
-    "description": "A short Zelda inspired game made with Unity Engine using C# in 48 hours for IGDC BYOG 2023 game jam while working at Insanity Crew. Responsible for ideation, concept development, level design & some 2D pixel art.",
+    "title": "Bolt Blast",
+    "description": " Bolt Blast is a strategic puzzle game that challenges players to free wooden planks by strategically moving screws. With simple tap controls, engaging perks, and charming screw character animations, the game offers a fun yet challenging experience for puzzle enthusiasts. Each level consists of two parts, gradually increasing in difficulty to test players’ problem-solving skills. Players must strive to complete levels quickly to earn maximum stars and climb the leaderboard.",
     "screenshots": [
-      "packages/images/tlol/tss1.jpg",
-      "packages/images/tlol/tss2.jpg",
-      "packages/images/tlol/tss3.jpg",
-      "packages/images/tlol/tss4.jpg",
-      "packages/images/tlol/tss5.jpg"
+      "packages/images/Games/Bolt Blast/SS1.png",
+      "packages/images/Games/Bolt Blast/SS2.png",
+      "packages/images/Games/Bolt Blast/SS3.png",
+      "packages/images/Games/Bolt Blast/SS4.png"
+
     ],
-    "gameLink": "https://faizalkhan99.itch.io/the-language-of-love",
+    "gameLink": "https://play.google.com/store/apps/details?id=com.dlg.bolt.blast.screw.nuts.puzzle",
     "embedLink": "",
     "features": [
-      "features 1. feature 2. feature 3.'IN PROGRESS'"
+      "> Controls: Use easy Tap Controls to move screws and free wooden planks strategically.",
+      "> Level Part 1: Easy and introductory to help players learn the mechanics.",
+      "> Level Part 2: Hard and challenging to push players’ problem-solving skills.",
+      "> Undo Perk: Revert your last move to correct mistakes.",
+      "> Freeze Perk: Pause the level timer to plan your moves carefully.",
+      "> Unscrew Perk: Remove a screw to open a free hole strategically.",
+      "> Hammer Perk: Break a specific plank to overcome difficult spots.",
+      "> Animations: Adorable screw character animations add charm and bring the gameplay to life.",
+      "> Level Editor: A specialized Level Editor allows designers to create and modify levels efficiently, minimizing development time and enabling continuous updates.",
+      "> Leaderboard: Compete globally and locally for leaderboard dominance which rependence upon number of stars in each level."
     ],
     "responsibilities": [
-      "r1. r2. r3. r4"
+      "> Create levels with a balanced mix of difficulty, ensuring they are challenging yet enjoyable.",
+      "> Design the progression of levels to maintain player interest and provide a sense of accomplishment.",
+      "> Make level editor from developer with alots of feedbacks",
+      "> Utilize specialized level editors to efficiently design and modify levels",
+      "> Thoroughly Playtest the Game to Identify, Document, and Report Bugs, Glitches, or Gameplay Issues, Ensuring They Are Tracked and Resolved."
     ]
   },
+
+
+
+  /*------------------------------------------------------------ Game - 5 --------------------------------------------------------*/
+
   {
-    "title": "Monophobia",
-    "description": "Collaboratively conceived and crafted a single-player horror game, taking it from story concept to full development. My role included comprehensive game and level design. Our achievement was recognized when the game was showcased during the NAAC inspection in 2023 at VIPS campus in Delhi, earning accolades.",
+    "title": "Pet Hospital",
+    "description": "Pet Hospital is a delightful and interactive simulation game where players step into the role of a skilled veterinarian and pet groomer. Players must perform life-saving treatments and surgeries for injured animals, followed by pampering spa makeovers to restore their adorable appearances. With engaging controls, captivating animations, and diverse challenges, the game provides a heartwarming and fun experience for animal lovers of all ages.",
     "screenshots": [
-      "packages/images/monophobia/mss1.png",
-      "packages/images/monophobia/mss2.png",
-      "packages/images/monophobia/mss3.png",
-      "packages/images/monophobia/mss4.png",
-      "packages/images/monophobia/mss5.png",
-      "packages/images/monophobia/mss6.png",
-      "packages/images/monophobia/mss7.png",
-      "packages/images/monophobia/mss8.png",
-      "packages/images/monophobia/mss9.png"
+      "packages/images/Games/PH/SS1.png",
+      "packages/images/Games/PH/SS2.png",
+      "packages/images/Games/PH/SS3.png",
+      "packages/images/Games/PH/SS4.png",
+      "packages/images/Games/PH/SS5.png",
+      "packages/images/Games/PH/SS6.png",
+      "packages/images/Games/PH/SS7.png",
+      "packages/images/Games/PH/SS8.png",
+      "packages/images/Games/PH/SS9.png",
+      "packages/images/Games/PH/SS10.png",
+      "packages/images/Games/PH/SS11.png"
     ],
-    "gameLink": "https://faizalkhan99.itch.io/monophobia",
-    "embedLink": "EyVoAOO6Co8",
-    "features": [
-      "features 1. feature 2. feature 3.'IN PROGRESS'"
-    ],
-    "responsibilities": [
-      "r1. r2. r3. r4"
-    ]
-  },
-  {
-    "title": "Rubber Bang",
-    "description": "Conceptualized and spearheaded the development of an online multiplayer shooting game in collaboration with a teammate. My role encompassed game and level design, balance refinement, and contributing 3D art using Maya 3D. The result? A victorious project, securing us a prestigious prize of Rs. 15,000 in a competition.",
-    "screenshots": [
-      "packages/images/rubberbang/rbss1.png",
-      "packages/images/rubberbang/rbss2.png",
-      "packages/images/rubberbang/rbss3.png",
-      "packages/images/rubberbang/rbss4.png",
-      "packages/images/rubberbang/rbss5.png",
-      "packages/images/rubberbang/rbss6.png"
-    ],
-    "gameLink": "https://faizalkhan99.itch.io/rubber-bang",
-    "embedLink": "ul2WQQlikGI",
-    "features": [
-      "features 1. feature 2. feature 3.'IN PROGRESS'"
-    ],
-    "responsibilities": [
-      "r1. r2. r3. r4"
-    ]
-  },
-  {
-    "title": "Darren The Thief",
-    "description": "Developed a captivating 3D escape game for Windows, immersing players in the intriguing world of an auction house heist. Players assist Darren in executing an audacious fleece. Crafted with Unity and C#. The game features immersive cinematic cutscenes for an engaging storytelling experience.",
-    "screenshots": [
-      "packages/images/dtt/dss8.png",
-      "packages/images/dtt/dss1.png",
-      "packages/images/dtt/dss2.png",
-      "packages/images/dtt/dss3.png",
-      "packages/images/dtt/dss4.png",
-      "packages/images/dtt/dss5.png",
-      "packages/images/dtt/dss6.png",
-      "packages/images/dtt/dss7.png"
-    ],
-    "gameLink": "https://faizalkhan99.itch.io/darren-the-thief",
+    "gameLink": "https://play.google.com/store/apps/details?id=com.pet.clinic.animal.doctor.game",
     "embedLink": "",
     "features": [
-      "features 1. feature 2. feature 3.'IN PROGRESS'"
+      "> Drag & Drop: Place tools and items accurately",
+      "> Drag and Hold: Perform precise surgical actions.",
+      "> Tap: Select tools or apply treatments.",
+      "> Drag & Swipe: Smoothly apply grooming treatments.",
+      "> Treatment Phase: Perform surgeries and ensure the animals recover safely.",
+      "> Grooming Phase: Transform animals from their injured state into clean, happy, and adorable pets.",
+      "> Each level begins with a charming animation showing how the animal got hurt, adding depth and personality to the gameplay."
     ],
     "responsibilities": [
-      "r1. r2. r3. r4"
+      "> Create detailed Game Design Document (GDD) outlining gameplay mechanics, level Design Document (LDD), and overall game flow.",
+      "> Work closely with developers, artists, and sound designers to bring the game vision to life.",
+      "> Create and refine levels that align with the game’s theme.",
+      "> Continuously monitor and adjust gameplay mechanics for fairness, fun, and challenge",
+      "> Thoroughly Playtest the Game to Identify, Document, and Report Bugs, Glitches, or Gameplay Issues, Ensuring They Are Tracked and Resolved."
     ]
   },
+
+  /*------------------------------------------------------------ Game - 6 --------------------------------------------------------*/
+
   {
-    "title": "L.A.M.A. - Gamified Portfolio App",
-    "description": "Created an Android app that invites players to embark on a mysterious journey through a dark dungeon to uncover details about its enigmatic creator, including their work, education, and hobbies. This immersive experience combines storytelling and exploration to reveal the creator's intriguing backstory.",
+    "title": "Prado Parking - 2",
+    "description": "Prado Parking 2 is an engaging and realistic parking simulation game that offers players a variety of challenging levels to test their driving and parking skills. With its classic parking mode, the game provides an immersive experience through stunning main menu backgrounds, an eye-catching garage, and a wide selection of vehicles to choose from. The gameplay focuses on precision and control, making it both entertaining and skill-building for players.",
     "screenshots": [
-      "packages/images/levelarium/lss1.png",
-      "packages/images/levelarium/lss2.png",
-      "packages/images/levelarium/lss3.png",
-      "packages/images/levelarium/lss4.png",
-      "packages/images/levelarium/lss5.png",
-      "packages/images/levelarium/lss6.png",
-      "packages/images/levelarium/lss7.png",
-      "packages/images/levelarium/lss8.png",
-      "packages/images/levelarium/lss9.png",
-      "packages/images/levelarium/lss10.png",
-      "packages/images/levelarium/lss11.png"
+      "packages/images/Games/PP-2/SS1.png",
+      "packages/images/Games/PP-2/SS2.png",
+      "packages/images/Games/PP-2/SS3.png",
+      "packages/images/Games/PP-2/SS4.png",
+      "packages/images/Games/PP-2/SS5.png",
+      "packages/images/Games/PP-2/SS6.png",
+      "packages/images/Games/PP-2/SS7.png",
+      "packages/images/Games/PP-2/SS8.png",
+      "packages/images/Games/PP-2/SS9.png",
+      "packages/images/Games/PP-2/SS10.png"
     ],
-    "gameLink": "https://faizalkhan99.itch.io/lama",
+    "gameLink": "https://play.google.com/store/apps/details?id=com.sg.free.prado.car.parking.games",
     "embedLink": "",
     "features": [
-      "features 1. feature 2. feature 3.'IN PROGRESS'"
+      "> Controls: Players can choose between steering controls or button-based navigation for a customized driving experience. ",
+      "> Camera: Multiple camera perspectives allow players to navigate challenging parking spots with ease and precision. ",
+      "> Suspensions: Realistic vehicle suspensions enhance the driving experience, making each vehicle feel unique and lifelike. ",
+      "> Garage: A diverse range of vehicles is available, from compact cars to luxurious SUVs, catering to all player preferences. "
     ],
     "responsibilities": [
-      "r1. r2. r3. r4"
+      "> Create detailed Game Design Documents (GDD) outlining gameplay mechanics, Level Design Document (LDD), and overall game flow. ",
+      "> Work closely with developers, artists, and sound designers to bring the game vision to life. ",
+      "> Created diverse parking challenges across various levels, ensuring a gradual increase in difficulty. ",
+      "> Thoroughly Playtest the Game to Identify, Document, and Report Bugs, Glitches, or Gameplay Issues, Ensuring They Are Tracked and Resolved. "
     ]
   },
+
+  /*------------------------------------------------------------ Game - 7 --------------------------------------------------------*/
+
   {
-    "title": "Under The Tree",
-    "description": "Designed a casual catcher game available on PC, Android, and WebGL platforms. Players engage in a thrilling challenge of catching ripe fruits while skillfully shooting down the rotten ones plummeting from a towering tree. This cross-platform game offers fun and excitement across various devices.",
+    "title": "Moto Bike Racing",
+    "description": " Moto Bike Racing is an exhilarating motorcycle racing game that combines speed, strategy, and skill. Players can immerse themselves in the excitement of high-speed races with a variety of customizable bikes, diverse tracks, and multiple gameplay modes. The game’s lifelike AI opponents and versatile controls provide a realistic and engaging racing experience, catering to both casual gamers and hardcore racing enthusiasts.",
     "screenshots": [
-      "packages/images/utt/uss1.png",
-      "packages/images/utt/uss2.png",
-      "packages/images/utt/uss3.png",
-      "packages/images/utt/uss4.png",
-      "packages/images/utt/uss5.png",
-      "packages/images/utt/uss6.png"
+      "packages/images/Games/MBR/SS1.png",
+      "packages/images/Games/MBR/SS2.png",
+      "packages/images/Games/MBR/SS3.png",
+      "packages/images/Games/MBR/SS4.png",
+      "packages/images/Games/MBR/SS5.png",
+      "packages/images/Games/MBR/SS6.png",
+      "packages/images/Games/MBR/SS7.png",
+      "packages/images/Games/MBR/SS8.png"
     ],
-    "gameLink": "https://faizalkhan99.itch.io/under-the-tree",
+    "gameLink": "https://play.google.com/store/apps/details?id=com.fg.crazy.bike.traffic.racer.free",
     "embedLink": "",
     "features": [
-      "features 1. feature 2. feature 3.'IN PROGRESS'"
-    ]
-  },
-  {
-    "title": "Ghost Runner",
-    "description": "My first game using unity engine. Made back in 2022. A 2D infinite side scroller game where the player is suppose to dodge the evil ghosts towards him and increase the score as much as possible.",
-    "screenshots": [
-      "packages/images/ghostrunner/gss1.png",
-      "packages/images/ghostrunner/gss2.png",
-      "packages/images/ghostrunner/gss3.png",
-      "packages/images/ghostrunner/gss4.png"
-    ],
-    "gameLink": "https://faizalkhan99.itch.io/ghost-runner",
-    "embedLink": "lCWacKeAs9o",
-    "features": [
-      "features 1. feature 2. feature 3.'IN PROGRESS'"
+      "> Controls: Customize your racing experience with multiple control options, including buttons, tilt, and sliders. ",
+      "> Camera: Switch between various camera perspectives for a more immersive and tailored gameplay experience.",
+      "> AI: Compete against intelligent AI that adapts to your racing style, providing a lifelike and challenging experience. ",
+      "> Tracks: Experience challenging and visually stunning tracks across different environments and terrains. ",
+      "> Garage: Choose from a wide range of bikes, each with unique attributes and customizable options. "
     ],
     "responsibilities": [
-      "r1. r2. r3. r4"
+      "> Oversaw project timelines, ensuring all milestones were met on schedule. ",
+      "> Conceptualized and planned features for upcoming game updates to enhance player engagement. ",
+      "> Collaborated with designers and developers to prioritize and implement new content and improvements. ",
+      "> Thoroughly Playtest the Game to Identify, Document, and Report Bugs, Glitches, or Gameplay Issues, Ensuring They Are Tracked and Resolved. "
     ]
   },
+
+  /*------------------------------------------------------------ Game - 8 --------------------------------------------------------*/
+
   {
-    "title": "Space Rocks",
-    "description": "The start point of my game design and develop journey. made in GameMakerStusio2. A space 2D shooter for windows platform. Players assume the role of a rocket and shoot the asteroid and enemies tring to kill him, the goal is to kill enough enemies to the target score to win the game.",
+    "title": "Prado Parking - 1",
+    "description": " Prado Parking 1 is a feature-rich parking simulation game designed to challenge players' precision and control. With a variety of vehicles, multiple control options, and stunning game modes, the game offers a highly immersive experience. Players can navigate through different challenges, from simple parking scenarios to adventurous obstacle courses, making it a versatile and engaging title for all audiences. The inclusion of daily hard challenges and a unique Sign Test mode adds layers of excitement and replay-ability.",
     "screenshots": [
-      "packages/images/spacerocks/srss1.png",
-      "packages/images/spacerocks/srss2.png",
-      "packages/images/spacerocks/srss3.png",
-      "packages/images/spacerocks/srss4.png",
-      "packages/images/spacerocks/srss5.png",
-      "packages/images/spacerocks/srss6.png",
-      "packages/images/spacerocks/srss7.png",
-      "packages/images/spacerocks/srss8.png"
+      "packages/images/Games/PP-1/SS1.png",
+      "packages/images/Games/PP-1/SS2.png",
+      "packages/images/Games/PP-1/SS3.png",
+      "packages/images/Games/PP-1/SS4.png",
+      "packages/images/Games/PP-1/SS5.png",
+      "packages/images/Games/PP-1/SS6.png",
+      "packages/images/Games/PP-1/SS7.png",
+      "packages/images/Games/PP-1/SS8.png",
+      "packages/images/Games/PP-1/SS9.png",
+      "packages/images/Games/PP-1/SS10.png",
+      "packages/images/Games/PP-1/SS11.png",
+      "packages/images/Games/PP-1/SS12.png"
     ],
-    "gameLink": "https://faizalkhan99.itch.io/space-rocks",
+    "gameLink": "https://play.google.com/store/apps/details?id=com.ghive.jeep.parking.car.free.game.master.apps",
     "embedLink": "",
     "features": [
-      "features 1. feature 2. feature 3.'IN PROGRESS'"
+      "> Controls: Customize your driving experience with control options including steering, tilt, buttons, and sliders. ",
+      "> Camera: Switch between multiple camera perspectives to master every parking challenge. ",
+      "> Garage: Choose from a diverse range of vehicles, each offering unique handling characteristics. ",
+      "> Modes: Test your skills with fresh, demanding challenges. ",
+      "> Sign Test: A unique sign test designed to assess user under different conditions. "
     ],
     "responsibilities": [
-      "r1. r2. r3. r4"
+      "> Managed project timelines and ensured smooth collaboration among team members. ",
+      "> Designed and proposed innovative features for future updates to keep the gameplay fresh and engaging. ",
+      "> Collaborated with developers to prioritize and implement updates based on user feedback. ",
+      "> Thoroughly Playtest the Game to Identify, Document, and Report Bugs, Glitches, or Gameplay Issues, Ensuring They Are Tracked and Resolved. "
     ]
-  }
+  },
+
+  /*------------------------------------------------------------ Game - 9 --------------------------------------------------------*/
+
+  {
+    "title": "Real Surgeon Simulator",
+    "description": " Experience the life of a real surgeon in this immersive simulator! Take on a variety of challenging medical cases across multiple departments, including foot, brain, knee, and more. With intuitive controls and eye-catching animations, perform surgeries and treatments, customize your doctor, and make life-saving decisions. Get ready for the ultimate surgical challenge!",
+    "screenshots": [
+      "packages/images/Games/RSS/SS1.png",
+      "packages/images/Games/RSS/SS2.png",
+      "packages/images/Games/RSS/SS3.png",
+      "packages/images/Games/RSS/SS4.png",
+      "packages/images/Games/RSS/SS5.png",
+      "packages/images/Games/RSS/SS6.png",
+      "packages/images/Games/RSS/SS7.png",
+      "packages/images/Games/RSS/SS8.png",
+      "packages/images/Games/RSS/SS9.png",
+      "packages/images/Games/RSS/SS10.png",
+      "packages/images/Games/RSS/SS11.png",
+      "packages/images/Games/RSS/SS12.png"
+    ],
+    "gameLink": "https://play.google.com/store/apps/details?id=com.sg.hospital.doctor.free.games",
+    "embedLink": "",
+    "features": [
+      "> Simple and interactive controls like Drag & Drop, Tap, and Drag & Swipe to perform precise surgeries. ",
+      "> Foot Department: Treat patients with Podiatrists. ",
+      "> Derma: Diagnose and treat skin issues with a Dermatologist. ",
+      "> Brain: Perform intricate surgeries with a Neurologist. ",
+      "> Knee: Fix knee problems with an Orthopedic specialist. ",
+      "> Cancer: Provide cancer care with an Oncologist. ",
+      "> Emergency: Handle urgent cases with a Medical Specialist. ",
+      "> Specialists: Each department has a specific specialist doctor tailored for the needs of that field. ",
+      "> Doctor Customization: Personalize your doctor’s appearance to fit your style. ",
+      "> Animations: Eye-catching animations that bring surgeries to life with realistic details. "
+    ],
+    "responsibilities": [
+      "> Create plan document for doctors addition in the on going game, each department has it's own specialist doctor ",
+      "> Coordinate with designers & developers to ensure all tasks are on track and deadlines are met. ",
+      "> Focus on refining animations, adding more detailed customization options for doctors, and improving department-specific graphics to enhance realism. ",
+      "> Thoroughly Playtest the Game to Identify, Document, and Report Bugs, Glitches, or Gameplay Issues, Ensuring They Are Tracked and Resolved. "
+    ]
+  },
+
+  /*------------------------------------------------------------ Game - 10 --------------------------------------------------------*/
+
+  {
+    "title": "Immortal Squad",
+    "description": " Immortal Squad is an action-packed multiplayer shooting game that delivers an intense and immersive combat experience. Featuring a wide selection of guns and unique lethals, the game allows players to strategize and dominate the battlefield in various modes. From classic gameplay to tactical bomb defusal missions, Immortal Squad offers a realistic shooting experience with progressive achievements and badges to reward players' skills and dedication. ",
+    "screenshots": [
+      "packages/images/Games/Immortal Squad/SS1.png",
+      "packages/images/Games/Immortal Squad/SS2.png",
+      "packages/images/Games/Immortal Squad/SS3.png",
+      "packages/images/Games/Immortal Squad/SS4.png",
+      "packages/images/Games/Immortal Squad/SS5.png"
+    ],
+    "gameLink": "https://play.google.com/store/apps/details?id=com.babloo.commando.adventure.shooting",
+    "embedLink": "",
+    "features": [
+      "> Inventery: Access a range of weapons, including Assault Rifles (AR), Snipers, Machine Guns, and more, each with distinct characteristics.",
+      "> Classic Mode: Traditional gameplay focused on eliminating opponents. ",
+      "> Team Deathmatch: Collaborate with your team to achieve the highest kill count. ",
+      "> Free for All: A chaotic mode where every player fights for themselves. ",
+      "> Bomb Defuse Mode: Tactical gameplay requiring precision and teamwork to plant or defuse bombs. ",
+      "> Badges: Unlock achievement badges across tiers, from lower to higher, as you progress and showcase your expertise. "
+    ],
+    "responsibilities": [
+      "> Thoroughly Playtest the Game to Identify, Document, and Report Bugs, Glitches, or Gameplay Issues, Ensuring They Are Tracked and Resolved. "
+    ]
+  },
+
+  /*------------------------------------------------------------ Game - 11 --------------------------------------------------------*/
+
+  {
+    "title": "Open Heart Surgery",
+    "description": " Open Heart Surgery is a highly interactive and educational simulation game that provides players with a realistic surgical experience. With a variety of medical modes and intuitive controls, players can explore different specialties, from heart surgeries to emergency cases. The game offers an engaging and educational platform for players to learn and test their skills in a simulated medical environment. ",
+    "screenshots": [
+      "packages/images/Games/OHS/SS1.png",
+      "packages/images/Games/OHS/SS2.png",
+      "packages/images/Games/OHS/SS3.png",
+      "packages/images/Games/OHS/SS4.png",
+      "packages/images/Games/OHS/SS5.png",
+      "packages/images/Games/OHS/SS6.png",
+      "packages/images/Games/OHS/SS7.png",
+      "packages/images/Games/OHS/SS8.png",
+      "packages/images/Games/OHS/SS9.png",
+      "packages/images/Games/OHS/SS10.png"
+    ],
+    "gameLink": "https://play.google.com/store/apps/details?id=com.goxo.doctor.heart.surgery.game",
+    "embedLink": "",
+    "features": [
+      "> Drag & Drop + Tap Controls: Perform surgical procedures with precision by Easy-to-use tap & drag-drop controls for selecting and using tools. ",
+      "> Educational: Learn about different surgical techniques and medical practices through immersive gameplay. ",
+      "> Diverse Medical Modes: ENT , Heart , Ortho , General , Eye , Dental , Emergency "
+    ],
+    "responsibilities": [
+      "> Managed project timelines and ensured effective collaboration between designers, developers, and artists. ",
+      "> Conceptualized and designed new features for upcoming updates, such as additional medical modes and enhanced controls. ",
+      "> Thoroughly Playtest the Game to Identify, Document, and Report Bugs, Glitches, or Gameplay Issues, Ensuring They Are Tracked and Resolved. "
+    ]
+  },
+
+  /*------------------------------------------------------------ Game - 12 --------------------------------------------------------*/
+
+  {
+    /* "title": "Screw Jam",
+        "description": "",
+        "screenshots": [
+            "packages/images/Games/Screw Jam/SS1.png",
+            "packages/images/Games/Screw Jam/SS2.png",
+            "packages/images/Games/Screw Jam/SS3.png",
+            "packages/images/Games/Screw Jam/SS4.png",
+            "packages/images/Games/Screw Jam/SS5.png",
+            "packages/images/Games/Screw Jam/SS6.png"
+        ],
+        "gameLink": "",
+        "embedLink": "",
+        "features": [
+            "features 1. feature 2. feature 3.'IN PROGRESS'"
+        ],
+        "responsibilities": [
+            "r1. r2. r3. r4"
+        ]
+    }*/
 ]

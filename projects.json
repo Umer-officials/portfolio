@@ -20,35 +20,43 @@
       "> Controls: First combine tiles with the same value, then follow the power-of-2 principle for strategic gameplay.*> Hammer: Removes unwanted tiles from the grid except the biggest one. *> Swap: Allows players to swap any two tiles for better positioning.*> Mega Merge: Merges all tiles of the same value in a single move, enhancing efficiency except single tile.*> Creative Mode: Design custom levels to match your desired rewards and challenges.*> Challenge Mode: Complete specific objectives, such as creating a particular tile within a set time, to earn higher rewards.*> Leaderboard: Compete globally and locally for a spot at the top of the leaderboard, with recognition in the Hall of Fame.*> Live Themes: Choose from 6 dynamic, live themes to enhance your gaming experience.*> Music Themes: Enjoy a selection of 6 music themes to complement the gameplay and immerse yourself in the game’s atmosphere."
     ],
     "responsibilities": [
-      "> Create a comprehensive and detailed Game Design Document (GDD) that serves as the blueprint for the entire team.",
-      "> Work Closely with Developers, Artists, and Other Team Members to Implement Game Features.",
-      "> Continuously Monitor and Adjust Game Balance, Ensuring that All Mechanics are Fair, Fun, and Challenging",
-      "> Thoroughly Playtest the Game to Identify, Document, and Report Bugs, Glitches, or Gameplay Issues, Ensuring They Are Tracked and Resolved"
+      "> Create a comprehensive and detailed Game Design Document (GDD) that serves as the blueprint for the entire team.*> Work Closely with Developers, Artists, and Other Team Members to Implement Game Features.*> Continuously Monitor and Adjust Game Balance, Ensuring that All Mechanics are Fair, Fun, and Challenging.*> Thoroughly Playtest the Game to Identify, Document, and Report Bugs, Glitches, or Gameplay Issues, Ensuring They Are Tracked and Resolved."
     ]
   },
   {
-    "title": "Levelarium",
-    "description": "Experience a captivating Android adventure crafted with Unity and C#. Engage in strategic gameplay, solve puzzles, and navigate dynamic combat scenarios. With stunning visuals and a compelling narrative, our game offers an immersive experience tailored for Android devices, all in a portrait-oriented format.",
+    "title": "Block Bust",
+    "description": "Block Bust is an innovative and captivating block puzzle game that combines strategic thinking with fun and visually appealing gameplay. Players must drag and drop blocks onto the grid to clear filled lines both horizontally and vertically. With a variety of modes, engaging perks, and a combo streak mechanic, the game offers endless entertainment and challenges for puzzle enthusiasts of all skill levels.",
     "screenshots": [
-      "packages/images/levelarium/lss1.png",
-      "packages/images/levelarium/lss2.png",
-      "packages/images/levelarium/lss3.png",
-      "packages/images/levelarium/lss4.png",
-      "packages/images/levelarium/lss5.png",
-      "packages/images/levelarium/lss6.png",
-      "packages/images/levelarium/lss7.png",
-      "packages/images/levelarium/lss8.png",
-      "packages/images/levelarium/lss9.png",
-      "packages/images/levelarium/lss10.png",
-      "packages/images/levelarium/lss11.png"
+      "packages/images/Games/Block Bust/SS1.png",
+      "packages/images/Games/Block Bust/SS2.png",
+      "packages/images/Games/Block Bust/SS3.png",
+      "packages/images/Games/Block Bust/SS4.png",
+      "packages/images/Games/Block Bust/SS5.png",
+      "packages/images/Games/Block Bust/SS6.png",
+      "packages/images/Games/Block Bust/SS7.png",
+      "packages/images/Games/Block Bust/SS8.png",
+      "packages/images/Games/Block Bust/SS9.png"
     ],
-    "gameLink": "https://faizalkhan99.itch.io/levelarium",
+    "gameLink": "https://play.google.com/store/apps/details?id=com.sg.free.merge.block.puzzle.game",
     "embedLink": "",
     "features": [
-      "features 1. feature 2. feature 3.'IN PROGRESS'"
+      "> Controls: Drag and drop blocks to clear lines horizontally and vertically",
+      "> Combo Streaks: Keep clearing lines consecutively to build combo streaks, increasing your score multiplier and earning higher coins",
+      "> Variety of Modes: Classic , Challenge , Timeless , Bomb & specially Adventure Mode",
+      "> Rotate Perk: Adjust block orientation for easier placement.",
+      "> Replace Perk: Swap out unwanted blocks for new ones.",
+      "> Rocket Perk: Clear a vertical and horizontal line at the placed location.",
+      "> Bomb Perk: Clear a 3x3 grid area to overcome challenging spots.",
+      "> Leaderboard: Compete globally and locally in each mode to secure your place at the top of the leaderboard.",
+      "> Block themes: Animals , Bakery , Fruits , Dice , Sea Animals"
     ],
     "responsibilities": [
-      "r1. r2. r3. r4"
+      "> Develop comprehensive Game Design Documents (GDD) that detail gameplay mechanics, level structures, and the overall game progression.",
+      "> Create diverse game modes, including Classic, Challenge, Timeless, Bomb, and Adventure modes.",
+      "> Design and implement power-ups like Rotate, Replace, Rocket, and Bomb to enhance gameplay variety.",
+      "> Work closely with developers, artists, and sound designers to bring the game vision to life.",
+      "> Implement a progression system with rewards to maintain player engagement and retention",
+      "> Design combo streak mechanics to reward players with score multipliers for consecutive line clears."
     ]
   },
   {

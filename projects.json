@@ -43,12 +43,7 @@
       "> Controls: Drag and drop blocks to clear lines horizontally and vertically. *>Combo Streaks: Keep clearing lines consecutively to build combo streaks, increasing your score multiplier and earning higher coins. Variety of Modes: Classic , Challenge , Timeless , Bomb & specially Adventure Mode.*> Rotate Perk: Adjust block orientation for easier placement.*> Replace Perk: Swap out unwanted blocks for new ones.*> Rocket Perk: Clear a vertical and horizontal line at the placed location.*> Bomb Perk: Clear a 3x3 grid area to overcome challenging spots.*> Leaderboard: Compete globally and locally in each mode to secure your place at the top of the leaderboard.*> Block themes: Animals , Bakery , Fruits , Dice , Sea Animals"
     ],
     "responsibilities": [
-      "> Develop comprehensive Game Design Documents (GDD) that detail gameplay mechanics, level structures, and the overall game progression.",
-      "> Create diverse game modes, including Classic, Challenge, Timeless, Bomb, and Adventure modes.",
-      "> Design and implement power-ups like Rotate, Replace, Rocket, and Bomb to enhance gameplay variety.",
-      "> Work closely with developers, artists, and sound designers to bring the game vision to life.",
-      "> Implement a progression system with rewards to maintain player engagement and retention",
-      "> Design combo streak mechanics to reward players with score multipliers for consecutive line clears."
+      "> Develop comprehensive Game Design Documents (GDD) that detail gameplay mechanics, level structures, and the overall game progression.*> Create diverse game modes, including Classic, Challenge, Timeless, Bomb, and Adventure modes.*> Design and implement power-ups like Rotate, Replace, Rocket, and Bomb to enhance gameplay variety.*> Work closely with developers, artists, and sound designers to bring the game vision to life.*> Implement a progression system with rewards to maintain player engagement and retention.*> Design combo streak mechanics to reward players with score multipliers for consecutive line clears."
     ]
   },
   {
@@ -71,20 +66,10 @@
     "gameLink": "https://play.google.com/store/apps/details?id=com.sg.doctor.surgeon.makeover.games",
     "embedLink": "",
     "features": [
-      "> Drag & Drop: Place tools and items accurately.",
-      "> Drag and Hold: Perform precise surgical actions.",
-      "> Tap: Select tools or apply treatments.",
-      "> Drag & Swipe: Smoothly apply makeover treatments.",
-      "> Surgery Phase: Treat injuries and perform critical surgeries using various tools and techniques.",
-      "> SPA Makeover Phase: Transform patients from their dirty, injured state into stunning bridal or groom looks.",
-      "> Animations: Each level begins with an engaging animation showing how the patient got hurt, adding depth and personality to the gameplay."
+      "> Drag & Drop: Place tools and items accurately.*> Drag and Hold: Perform precise surgical actions.*> Tap: Select tools or apply treatments.*> Drag & Swipe: Smoothly apply makeover treatments.*> Surgery Phase: Treat injuries and perform critical surgeries using various tools and techniques.*> SPA Makeover Phase: Transform patients from their dirty, injured state into stunning bridal or groom looks.*> Animations: Each level begins with an engaging animation showing how the patient got hurt, adding depth and personality to the gameplay."
     ],
     "responsibilities": [
-      "> Create detailed Game Design Document (GDD) outlining gameplay mechanics, level Design Document (LDD), and overall game flow.",
-      "> Work closely with developers, artists, and sound designers to bring the game vision to life.",
-      "> Create and refine levels that align with the game’s theme.",
-      "> Continuously monitor and adjust gameplay mechanics for fairness, fun, and challenge.",
-      "> Thoroughly Playtest the Game to Identify, Document, and Report Bugs, Glitches, or Gameplay Issues, Ensuring They Are Tracked and Resolved."
+      "> Create detailed Game Design Document (GDD) outlining gameplay mechanics, level Design Document (LDD), and overall game flow.*> Work closely with developers, artists, and sound designers to bring the game vision to life.*> Create and refine levels that align with the game’s theme.*> Continuously monitor and adjust gameplay mechanics for fairness, fun, and challenge.*> Thoroughly Playtest the Game to Identify, Document, and Report Bugs, Glitches, or Gameplay Issues, Ensuring They Are Tracked and Resolved."
     ]
   },
   {

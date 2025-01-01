@@ -291,5 +291,57 @@
       "> Focus on refining animations, adding more detailed customization options for doctors, and improving department-specific graphics to enhance realism. ",
       "> Thoroughly Playtest the Game to Identify, Document, and Report Bugs, Glitches, or Gameplay Issues, Ensuring They Are Tracked and Resolved. "
     ]
+  },
+  {
+    "title": "Immortal Squad",
+    "description": " Immortal Squad is an action-packed multiplayer shooting game that delivers an intense and immersive combat experience. Featuring a wide selection of guns and unique lethals, the game allows players to strategize and dominate the battlefield in various modes. From classic gameplay to tactical bomb defusal missions, Immortal Squad offers a realistic shooting experience with progressive achievements and badges to reward players' skills and dedication. ",
+    "screenshots": [
+      "packages/images/Games/Immortal Squad/SS1.png",
+      "packages/images/Games/Immortal Squad/SS2.png",
+      "packages/images/Games/Immortal Squad/SS3.png",
+      "packages/images/Games/Immortal Squad/SS4.png",
+      "packages/images/Games/Immortal Squad/SS5.png"
+    ],
+    "gameLink": "https://play.google.com/store/apps/details?id=com.babloo.commando.adventure.shooting",
+    "embedLink": "",
+    "features": [
+      "> Inventery: Access a range of weapons, including Assault Rifles (AR), Snipers, Machine Guns, and more, each with distinct characteristics.",
+      "> Classic Mode: Traditional gameplay focused on eliminating opponents. ",
+      "> Team Deathmatch: Collaborate with your team to achieve the highest kill count. ",
+      "> Free for All: A chaotic mode where every player fights for themselves. ",
+      "> Bomb Defuse Mode: Tactical gameplay requiring precision and teamwork to plant or defuse bombs. ",
+      "> Badges: Unlock achievement badges across tiers, from lower to higher, as you progress and showcase your expertise. "
+    ],
+    "responsibilities": [
+      "> Thoroughly Playtest the Game to Identify, Document, and Report Bugs, Glitches, or Gameplay Issues, Ensuring They Are Tracked and Resolved. "
+    ]
+  },
+  {
+    "title": "Open Heart Surgery",
+    "description": " Open Heart Surgery is a highly interactive and educational simulation game that provides players with a realistic surgical experience. With a variety of medical modes and intuitive controls, players can explore different specialties, from heart surgeries to emergency cases. The game offers an engaging and educational platform for players to learn and test their skills in a simulated medical environment. ",
+    "screenshots": [
+      "packages/images/Games/OHS/SS1.png",
+      "packages/images/Games/OHS/SS2.png",
+      "packages/images/Games/OHS/SS3.png",
+      "packages/images/Games/OHS/SS4.png",
+      "packages/images/Games/OHS/SS5.png",
+      "packages/images/Games/OHS/SS6.png",
+      "packages/images/Games/OHS/SS7.png",
+      "packages/images/Games/OHS/SS8.png",
+      "packages/images/Games/OHS/SS9.png",
+      "packages/images/Games/OHS/SS10.png"
+    ],
+    "gameLink": "https://play.google.com/store/apps/details?id=com.goxo.doctor.heart.surgery.game",
+    "embedLink": "",
+    "features": [
+      "> Drag & Drop + Tap Controls: Perform surgical procedures with precision by Easy-to-use tap & drag-drop controls for selecting and using tools. ",
+      "> Educational: Learn about different surgical techniques and medical practices through immersive gameplay. ",
+      "> Diverse Medical Modes: ENT , Heart , Ortho , General , Eye , Dental , Emergency "
+    ],
+    "responsibilities": [
+      "> Managed project timelines and ensured effective collaboration between designers, developers, and artists. ",
+      "> Conceptualized and designed new features for upcoming updates, such as additional medical modes and enhanced controls. ",
+      "> Thoroughly Playtest the Game to Identify, Document, and Report Bugs, Glitches, or Gameplay Issues, Ensuring They Are Tracked and Resolved. "
+    ]
   }
 ]

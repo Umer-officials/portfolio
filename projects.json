@@ -297,10 +297,10 @@
     "description": " Immortal Squad is an action-packed multiplayer shooting game that delivers an intense and immersive combat experience. Featuring a wide selection of guns and unique lethals, the game allows players to strategize and dominate the battlefield in various modes. From classic gameplay to tactical bomb defusal missions, Immortal Squad offers a realistic shooting experience with progressive achievements and badges to reward players' skills and dedication. ",
     "screenshots": [
       "packages/images/Games/Immortal Squad/SS1.png",
-      //"packages/images/Games/Immortal Squad/SS2.png",
-      //"packages/images/Games/Immortal Squad/SS3.png",
-      //"packages/images/Games/Immortal Squad/SS4.png",
-      //"packages/images/Games/Immortal Squad/SS5.png"
+      "packages/images/Games/Immortal Squad/SS2.png",
+      "packages/images/Games/Immortal Squad/SS3.png",
+      "packages/images/Games/Immortal Squad/SS4.png",
+      "packages/images/Games/Immortal Squad/SS5.png"
     ],
     "gameLink": "https://play.google.com/store/apps/details?id=com.babloo.commando.adventure.shooting",
     "embedLink": "",

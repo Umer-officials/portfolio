@@ -40,10 +40,23 @@
     "gameLink": "https://play.google.com/store/apps/details?id=com.sg.free.merge.block.puzzle.game",
     "embedLink": "",
     "features": [
-      "> Controls: Drag and drop blocks to clear lines horizontally and vertically.*> Combo Streaks: Keep clearing lines consecutively to build combo streaks, increasing your score multiplier and earning higher coins.*> Variety of Modes: Classic , Challenge , Timeless , Bomb & specially Adventure Mode.*> Rotate Perk: Adjust block orientation for easier placement.*> Replace Perk: Swap out unwanted blocks for new ones.*> Rocket Perk: Clear a vertical and horizontal line at the placed location.*> Bomb Perk: Clear a 3x3 grid area to overcome challenging spots.*> Leaderboard: Compete globally and locally in each mode to secure your place at the top of the leaderboard.*> Block themes: Animals , Bakery , Fruits , Dice , Sea Animals."
+      "> Controls: Drag and drop blocks to clear lines horizontally and vertically",
+      "> Combo Streaks: Keep clearing lines consecutively to build combo streaks, increasing your score multiplier and earning higher coins",
+      "> Variety of Modes: Classic , Challenge , Timeless , Bomb & specially Adventure Mode",
+      "> Rotate Perk: Adjust block orientation for easier placement.",
+      "> Replace Perk: Swap out unwanted blocks for new ones.",
+      "> Rocket Perk: Clear a vertical and horizontal line at the placed location.",
+      "> Bomb Perk: Clear a 3x3 grid area to overcome challenging spots.",
+      "> Leaderboard: Compete globally and locally in each mode to secure your place at the top of the leaderboard.",
+      "> Block themes: Animals , Bakery , Fruits , Dice , Sea Animals"
     ],
     "responsibilities": [
-      "> Develop comprehensive Game Design Documents (GDD) that detail gameplay mechanics, level structures, and the overall game progression.*> Create diverse game modes, including Classic, Challenge, Timeless, Bomb, and Adventure modes.*> Design and implement power-ups like Rotate, Replace, Rocket, and Bomb to enhance gameplay variety.*> Work closely with developers, artists, and sound designers to bring the game vision to life.*> Implement a progression system with rewards to maintain player engagement and retention.*> Design combo streak mechanics to reward players with score multipliers for consecutive line clears."
+      "> Develop comprehensive Game Design Documents (GDD) that detail gameplay mechanics, level structures, and the overall game progression.",
+      "> Create diverse game modes, including Classic, Challenge, Timeless, Bomb, and Adventure modes.",
+      "> Design and implement power-ups like Rotate, Replace, Rocket, and Bomb to enhance gameplay variety.",
+      "> Work closely with developers, artists, and sound designers to bring the game vision to life.",
+      "> Implement a progression system with rewards to maintain player engagement and retention",
+      "> Design combo streak mechanics to reward players with score multipliers for consecutive line clears."
     ]
   },
   {

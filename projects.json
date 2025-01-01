@@ -85,23 +85,10 @@
     "gameLink": "https://play.google.com/store/apps/details?id=com.dlg.bolt.blast.screw.nuts.puzzle",
     "embedLink": "",
     "features": [
-      "> Controls: Use easy Tap Controls to move screws and free wooden planks strategically.",
-      "> Level Part 1: Easy and introductory to help players learn the mechanics.",
-      "> Level Part 2: Hard and challenging to push players’ problem-solving skills.",
-      "> Undo Perk: Revert your last move to correct mistakes.",
-      "> Freeze Perk: Pause the level timer to plan your moves carefully.",
-      "> Unscrew Perk: Remove a screw to open a free hole strategically.",
-      "> Hammer Perk: Break a specific plank to overcome difficult spots.",
-      "> Animations: Adorable screw character animations add charm and bring the gameplay to life.",
-      "> Level Editor: A specialized Level Editor allows designers to create and modify levels efficiently, minimizing development time and enabling continuous updates.",
-      "> Leaderboard: Compete globally and locally for leaderboard dominance which rependence upon number of stars in each level."
+      "> Controls: Use easy Tap Controls to move screws and free wooden planks strategically.*> Level Part 1: Easy and introductory to help players learn the mechanics.*> Level Part 2: Hard and challenging to push players’ problem-solving skills.,*> Undo Perk: Revert your last move to correct mistakes.*> Freeze Perk: Pause the level timer to plan your moves carefully.*> Unscrew Perk: Remove a screw to open a free hole strategically.*> Hammer Perk: Break a specific plank to overcome difficult spots.*> Animations: Adorable screw character animations add charm and bring the gameplay to life.*> Level Editor: A specialized Level Editor allows designers to create and modify levels efficiently, minimizing development time and enabling continuous updates.*> Leaderboard: Compete globally and locally for leaderboard dominance which rependence upon number of stars in each level."
     ],
     "responsibilities": [
-      "> Create levels with a balanced mix of difficulty, ensuring they are challenging yet enjoyable.",
-      "> Design the progression of levels to maintain player interest and provide a sense of accomplishment.",
-      "> Make level editor from developer with alots of feedbacks",
-      "> Utilize specialized level editors to efficiently design and modify levels",
-      "> Thoroughly Playtest the Game to Identify, Document, and Report Bugs, Glitches, or Gameplay Issues, Ensuring They Are Tracked and Resolved."
+      "> Create levels with a balanced mix of difficulty, ensuring they are challenging yet enjoyable.*> Design the progression of levels to maintain player interest and provide a sense of accomplishment.*> Make level editor from developer with alots of feedbacks.*> Utilize specialized level editors to efficiently design and modify levels.*> Thoroughly Playtest the Game to Identify, Document, and Report Bugs, Glitches, or Gameplay Issues, Ensuring They Are Tracked and Resolved."
     ]
   },
   {
@@ -123,20 +110,10 @@
     "gameLink": "https://play.google.com/store/apps/details?id=com.pet.clinic.animal.doctor.game",
     "embedLink": "",
     "features": [
-      "> Drag & Drop: Place tools and items accurately",
-      "> Drag and Hold: Perform precise surgical actions.",
-      "> Tap: Select tools or apply treatments.",
-      "> Drag & Swipe: Smoothly apply grooming treatments.",
-      "> Treatment Phase: Perform surgeries and ensure the animals recover safely.",
-      "> Grooming Phase: Transform animals from their injured state into clean, happy, and adorable pets.",
-      "> Each level begins with a charming animation showing how the animal got hurt, adding depth and personality to the gameplay."
+      ">  Drag & Drop: Place tools and items accurately.*> Drag and Hold: Perform precise surgical actions.*> Tap: Select tools or apply treatments.*> Drag & Swipe: Smoothly apply grooming treatments.*> Treatment Phase: Perform surgeries and ensure the animals recover safely.*> Grooming Phase: Transform animals from their injured state into clean, happy, and adorable pets.*> Each level begins with a charming animation showing how the animal got hurt, adding depth and personality to the gameplay."
     ],
     "responsibilities": [
-      "> Create detailed Game Design Document (GDD) outlining gameplay mechanics, level Design Document (LDD), and overall game flow.",
-      "> Work closely with developers, artists, and sound designers to bring the game vision to life.",
-      "> Create and refine levels that align with the game’s theme.",
-      "> Continuously monitor and adjust gameplay mechanics for fairness, fun, and challenge",
-      "> Thoroughly Playtest the Game to Identify, Document, and Report Bugs, Glitches, or Gameplay Issues, Ensuring They Are Tracked and Resolved."
+      ">  Create detailed Game Design Document (GDD) outlining gameplay mechanics, level Design Document (LDD), and overall game flow.*> Work closely with developers, artists, and sound designers to bring the game vision to life.*> Create and refine levels that align with the game’s theme.*> Continuously monitor and adjust gameplay mechanics for fairness, fun, and challenge.*> Thoroughly Playtest the Game to Identify, Document, and Report Bugs, Glitches, or Gameplay Issues, Ensuring They Are Tracked and Resolved."
     ]
   },
   {

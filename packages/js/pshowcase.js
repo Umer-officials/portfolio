@@ -35,11 +35,6 @@ document.addEventListener("DOMContentLoaded", () => {
                 // Set game link
                 const gameLink = document.getElementById('game-link');
                 gameLink.href = project.gameLink;
-		
-		// Each Game Document
-		const document = document.getElementById('document');
-                document.href = project.document;
-
 
                 // Generate and append the features list
                 if (project.features && project.features.length > 0) {
